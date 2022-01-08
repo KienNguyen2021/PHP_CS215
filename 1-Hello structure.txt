@@ -8,7 +8,7 @@
 
           <?php
 
-                 echo '<p>Hello World</p>';
+                 echo '<p>Hello World !!!</p>';
            ?>
   
           <?php 
@@ -16,7 +16,7 @@
            ?>
 
           <p>
-               Here is the latest news
+             Today I start learning PHP in course CS215_ Jan 8, 2022
            </p>
 
    </body>
